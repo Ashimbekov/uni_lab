@@ -1,1 +1,2 @@
 D:\workspace\uni_lab\cpp\x64\Debug\cpp.exe
+C:\Users\ashim\OneDrive\Документы\workspace\uni_lab\cpp\x64\Debug\cpp.exe
